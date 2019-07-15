@@ -1,4 +1,7 @@
-"# Project_1" 
+# Project_1
+
+## Binary classification ##
+
 <i>Python notebook created on April 2019. </i>
 * Edited by <b>Karim Choukri.</b> (kchoukri012@gmail.com)
 
